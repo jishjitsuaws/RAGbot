@@ -1,0 +1,1 @@
+TextforRAG folder contains the text used for RAG of the chatbot, the pythonscripts folder is for creating apis which can be directly accessed through the browser and the webproj folder is for the actual app built by combining the functionality of the api with html and css.
